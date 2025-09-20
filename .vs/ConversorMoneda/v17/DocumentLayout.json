@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karen\\Desktop\\SEGUNDO SEMESTRE\\programacion\\ConversorMoneda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913190BF-0870-42E3-AC9C-5DCBD4EBD6C5}|ConversorMoneda\\ConversorMoneda.csproj|c:\\users\\karen\\desktop\\segundo semestre\\programacion\\conversormoneda\\conversormoneda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913190BF-0870-42E3-AC9C-5DCBD4EBD6C5}|ConversorMoneda\\ConversorMoneda.csproj|solutionrelative:conversormoneda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karen\\Desktop\\SEGUNDO SEMESTRE\\programacion\\ConversorMoneda\\ConversorMoneda\\Program.cs",
+              "RelativeDocumentMoniker": "ConversorMoneda\\Program.cs",
+              "ToolTip": "C:\\Users\\karen\\Desktop\\SEGUNDO SEMESTRE\\programacion\\ConversorMoneda\\ConversorMoneda\\Program.cs",
+              "RelativeToolTip": "ConversorMoneda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T15:34:13.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

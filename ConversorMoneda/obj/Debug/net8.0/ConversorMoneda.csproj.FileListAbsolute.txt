@@ -1,0 +1,14 @@
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\bin\Debug\net8.0\ConversorMoneda.exe
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\bin\Debug\net8.0\ConversorMoneda.deps.json
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\bin\Debug\net8.0\ConversorMoneda.runtimeconfig.json
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\bin\Debug\net8.0\ConversorMoneda.dll
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\bin\Debug\net8.0\ConversorMoneda.pdb
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\ConversorMoneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\ConversorMoneda.AssemblyInfoInputs.cache
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\ConversorMoneda.AssemblyInfo.cs
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\ConversorMoneda.csproj.CoreCompileInputs.cache
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\ConversorMoneda.dll
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\refint\ConversorMoneda.dll
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\ConversorMoneda.pdb
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\ConversorMoneda.genruntimeconfig.cache
+C:\Users\karen\Desktop\SEGUNDO SEMESTRE\programacion\ConversorMoneda\ConversorMoneda\obj\Debug\net8.0\ref\ConversorMoneda.dll
